@@ -1,0 +1,53 @@
+.main {
+  background-color:rgb(72, 72, 72);
+  max-width:  1350px;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  
+ 
+}
+.top{
+  display: flex;
+  flex-direction: row;
+  flex: 1 1 100%;
+}
+.logo{
+  
+}
+
+.phonemenu{
+  align-items:flex-end;
+  flex-direction: column;
+  display: flex;
+}
+
+
+.slideshow{
+  flex: 1 1 100%;
+}
+
+.textcontentsidebar{
+  display: inline-flex;
+  flex: 1 1 100%
+}
+.textcontent{
+  flex:2 1 66%;
+}
+.sidebar{
+  flex:1 1 34%;
+}
+.footer{
+  flex: 1 1 100%;
+  height: 200px 
+}
+#container{
+  background-color: lightgray;
+  margin: 10px;
+}
+
+p{
+  color: white;
+  font-family: Papyrus, fantasy;
+  text-align: center;
+}
