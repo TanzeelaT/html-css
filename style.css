@@ -1,6 +1,8 @@
+*{
+  max-width:  1350px;
+}
 .main {
   background-color:rgb(72, 72, 72);
-  max-width:  1350px;
   display: inline-flex;
   flex-wrap: wrap;
   align-content: space-around;
@@ -13,16 +15,25 @@
   flex: 1 1 100%;
 }
 .logo{
-  
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 50px;
 }
 
 .phonemenu{
-  align-items:flex-end;
-  flex-direction: column;
-  display: flex;
+  
 }
-
-
+.phone{
+  padding-right: 40px;
+  padding-left: 40px;
+  height: 20px;
+  align-items: flex-end;
+}
+.menu{
+  padding-right: 100px;
+  padding-left: 80px;
+  height: 20px;
+}
 .slideshow{
   flex: 1 1 100%;
 }
@@ -44,6 +55,9 @@
 #container{
   background-color: lightgray;
   margin: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 p{
