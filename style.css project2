@@ -1,0 +1,68 @@
+.main{
+    background-color:rgb(72, 72, 72);
+    max-width: 1350px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.logophoneno{
+    display:inline-flex;
+}
+.logo{
+    max-width: 100px;
+    flex: 1 3 10%;
+}
+.flexend{
+    display: flex;
+    flex: 2 1 30%;
+    justify-content:flex-end;
+    align-items:center;
+  
+    
+}
+.phoneno{
+    width: 150px;
+    height: 25px;
+}
+.menu{
+    height: 25px;
+}
+.imageslideshow{
+    height:150px;
+}
+.feats{
+    display: inline-flex;
+    justify-content: space-around;
+}
+.feat1, .feat2, .feat3, .feat4 {
+    height: 100px;
+    width: 100px;
+}
+.textcontentsidebar{
+    display: inline-flex;
+    flex: 1 1 100%;
+}
+.textcontent{
+    flex: 2 1 66%;
+    height: 200px
+}
+.sidebar{
+    flex: 1 1 34%;
+    height: 200px;
+}
+.footer{
+    height: 25px;
+}
+.container{
+    background-color: lightgray;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    color:white;
+    text-align: center;
+    font-family:fantasy;
+    
+}
