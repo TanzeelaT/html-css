@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css"
+    </head>
+    <body>
+        <div class="main">
+            <div class="logophoneno">
+                <div class="logo container">
+                    <p>LOGO</p>
+                </div>
+                <div class="flexend">
+                    <div class="phoneno container">
+                        <p>PHONE NO</p>
+                   </div>
+                </div>
+                
+            </div>
+            <div class="menu container">
+                     <p>MENU</p>
+            </div>
+            <div class="imageslideshow container">
+                     <p>IMAGE SLIDESHOW</p>
+            </div>
+            <div class="feats">
+                <div class="feat1 container">
+                        <p>FEAT 1.</p>
+                </div>
+                <div class="feat2 container">
+                        <p>FEAT 2.</p>
+                </div>
+                <div class="feat3 container">
+                        <p>FEAT 3.</p>
+                </div>
+                <div class="feat4 container">
+                        <p>FEAT 4.</p>
+                </div>
+            </div>
+            <div class="textcontentsidebar">
+                 <div class="textcontent container">
+                         <p>TEXT CONTENT</p>
+                 </div>
+                 <div class="sidebar container">
+                         <p>SIDEBAR</p>
+                 </div>
+            </div>
+            <div class="footer container">
+                     <p>FOOTER</p>
+            </div>
+        </div>
+    </body>
+</html>
