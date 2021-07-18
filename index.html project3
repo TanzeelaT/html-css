@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="main">
+            <div class="blogmenu container">
+                    <p>BLOG MENU</p>
+            </div>
+            <div class="logophonemenu">
+                <div class="logo container">
+                        <p>LOGO</p>
+                </div>
+                <div class="phonemenu">
+                    <div class="phone container">
+                        <p>PHONE</p>
+                    </div>
+                    <div class="menu container">
+                        <p>MENU</p>
+                    </div>
+                </div>
+            </div>
+            <div class="slideshowtextcontentsidebar">
+                <div class="slideshowtextcontent">
+                    <div class="slideshow container">
+                        <p>SLIDESHOW</p>
+                    </div>
+                    <div class="textcontent container">
+                        <p>TEXT CONTENT</p>
+                    </div>
+                </div>
+                <div class="sidebar container">
+                        <p>SIDEBAR</p>
+                </div>
+            </div>
+            <div class="footer container">
+                    <p>FOOTER</p>
+            </div>
+        </div>
+    </body>
+</html>
