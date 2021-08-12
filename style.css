@@ -1,0 +1,113 @@
+.main{
+    max-width: 1350 px;
+    font-family: sans-serif;
+}
+.header{
+    color: blue;
+    display: inline-flex;
+    width: 100%;
+    font-size: 10px;
+}
+.viewallvehicles{
+    width:250px;
+    padding:10px;
+}
+.previousnext{
+    display:inline-flex;
+    flex: 1 1 100%;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.previousvehicle{
+    padding:10px;
+}
+.nextvehicle{
+    padding:10px;
+}
+.top{
+    border: 15px solid lightgray;
+}
+.section1{
+    display:flex;
+    flex-basis:100%;
+}
+.carimage{
+    display:flex;
+    align-items: center;
+    padding-right:15px;
+}
+.carinfo{
+    display:flex;
+    flex-direction:column;
+    flex-basis:50%;
+}
+.viewicon{
+    display: flex;
+    justify-content: flex-end;
+}
+.columns{
+    display:inline-flex;
+    
+}
+.column1{
+    display:flex;
+    justify-content:start;
+    flex-basis:100%
+
+}
+.carinfotable table{
+    margin:0%;
+   
+}
+.carinfotable th{
+    color:lightgray;
+    padding-top:10px;
+    text-align:left;
+    padding-right:10px;
+    padding-left:10px;
+}
+
+.carinfotable td{
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+}
+.borderr, .bordertr{
+    border-right:1px solid rgb(236, 236, 236);
+}
+.bordert, .bordertr{
+    border-top:1px solid rgb(236, 236, 236);
+}
+.column2{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    flex-basis:100%;
+}
+.daysleft{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.placebid, .buynow{
+    border:1px solid blue;
+    font-size:10px;
+    padding:10px;
+    border-radius: 3px;
+    width:85px;
+    margin:8px;
+    background-color: blue;
+    color: white;
+}
+.proxy{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section2{
+    display:inline-flex;
+    padding-left:10px;
+    padding-right:10px;
+}
